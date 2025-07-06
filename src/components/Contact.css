@@ -1,0 +1,23 @@
+.contact {
+  background-color: #1a1a1a;
+  padding: 3rem 2rem;
+  text-align: center;
+  color: #e0e0e0;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.contact h2 {
+  color: #00ff90;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 4px #00ff90;
+}
+
+.contact a {
+  color: #4da6ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact a:hover {
+  text-shadow: 0 0 5px #4da6ff;
+}

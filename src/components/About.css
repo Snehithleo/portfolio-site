@@ -1,0 +1,37 @@
+.about {
+  background-color: #1a1a1a;
+  padding: 3rem 2rem;
+  color: #e0e0e0;
+  font-family: 'Share Tech Mono', monospace;
+  border-bottom: 1px solid #333;
+}
+
+.about h2 {
+  font-size: 2rem;
+  color: #00ff90;
+  text-shadow: 0 0 4px #00ff90;
+  margin-bottom: 1.5rem;
+}
+
+.about p {
+  font-size: 1.1rem;
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.skills {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.skill {
+  background-color: #000;
+  color: #4da6ff;
+  padding: 0.5rem 1rem;
+  border: 1px solid #4da6ff;
+  border-radius: 5px;
+  font-size: 0.95rem;
+  box-shadow: 0 0 6px #4da6ff55;
+}
