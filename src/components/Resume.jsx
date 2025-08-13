@@ -33,18 +33,6 @@ const DownloadLink = styled.a`
   }
 `;
 
-function Resume() {
-  return (
-    <Section id="resume">
-      <Title>Resume</Title>
 
-      <Frame src="/Snehith_Resume.pdf" title="Snehith's Resume" />
-
-      <DownloadLink href="/Snehith_Resume.pdf" download>
-        Download Resume
-      </DownloadLink>
-    </Section>
-  );
-}
 
 export default Resume;
